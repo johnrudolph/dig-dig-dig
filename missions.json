@@ -1,9 +1,10 @@
 [
     {
         "Client": "Reginald Britsworth",
-        "Flavor": "Mine! Mine! It will all be MINE!",
+        "Flavor": "Everything belongs in my personal museum.",
         "Mission": "At the end of round 5, identify the space(s) with the most facedown Artifacts. Pick up all of them and leave them facedown on this card. Reveal at the end of the game. If the total value of the Artifacts exceeds $15k, the mission is a success",
-        "Reward": "16k"
+        "First player reward": "16k",
+        "Second player reward": "8k"
     },
     {
         "Client": "Palaeontologist Patty",

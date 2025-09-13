@@ -26,7 +26,7 @@
     },
     {
         "Name": "Steal",
-        "Description": "Steal an opponent's Equipment card. Trash this card.",
+        "Description": "Steal an opponent's Equipment card, or a face-up Action. Trash this card.",
         "Quantity": 2
     },
     {
