@@ -21,12 +21,12 @@ Missions are special requests from clients that offer big rewards. Most Missions
 # Setup
 1. Shuffle each set of 12 Landscape cards separately. Create a 4x3 grid of Bedrock face-down. Place a face-down Subsoil on top of each. Then place a Topsoil on top of each.
 2. Each player takes a base set of Action cards, shuffles, and draws 5. Each base set contains: 
-     - 1 "Turn left" card
-     - 1 "Turn right" card
-     - 1 "Turn around" card
-     - 1 "Dig 1" card
-     - 1 "Dig 2" card
-     - 5 "Move 1" cards
+  - 1 "Turn left" card
+  - 1 "Turn right" card
+  - 1 "Turn around" card
+  - 1 "Dig 1" card
+  - 1 "Dig 2" card
+  - 5 "Move 1" cards
 3. Shuffle the Action deck. Draw the top 3 cards and lay them out face-up next to the face-down deck.
 4. Shuffle the Mission deck, draw 2, and place them face-up near the play area. 
 5. Find any special Artifact or Action cards from the Missions. Shuffle the special Action cards into the Action deck. Shuffle the normal Artifact deck, and add cards from it to the special Artifact cards until there are 12 total. Set the others aside, shuffle the combined Artifact deck, and set it near the play area.
@@ -35,29 +35,29 @@ Missions are special requests from clients that offer big rewards. Most Missions
 
 # Gameplay
 Dig Dig Dig takes place over a series of rounds. The number of rounds depends on the number of players: 
-     - 3 players: 9 rounds
-     - 4 players: 8 rounds
+  - 3 players: 9 rounds
+  - 4 players: 8 rounds
 
 Each round consists of two phases: 
 
 ### Preparation
 Each player draws 5 cards from their deck. Place cards from your hand face-down in a row in front of you to prepare your turn. The cards you prepare will be resolved in the order you place them. 
-     - You do not need to use all 5 cards: for any cards you don't use, you may either discard them, or keep them in your hand for later.
-     - Each player has their own discard pile, which should always be face-up. 
+  - You do not need to use all 5 cards: for any cards you don't use, you may either discard them, or keep them in your hand for later.
+  - Each player has their own discard pile, which should always be face-up. 
 
 Players prepare their actions simultaneously. Once all players are ready, move on to the Action phase.
 
 ### Action
 Take turns beginning with the player with the Golden Shovel. On your turn, reveal your face-down cards one by one, left to right, resolving each as you reveal it. When you are finished, discard the cards you played, and draw back up to 5.
 
-     - If you ever reveal an Action that you cannot perform, skip it.
-     - When your draw pile is empty, shuffle your discard pile and replace it.
+  - If you ever reveal an Action that you cannot perform, skip it.
+  - When your draw pile is empty, shuffle your discard pile and replace it.
 
 There are many Actions, which are specified in the Glossary, but here are a few that are in your base deck, and are important to understand: 
 
 #### Move
 Move forward in the direction that you are already facing. Multiple players may occupy the same space. 
-     - If you are facing the edge of the board, do nothing. 
+  - If you are facing the edge of the board, do nothing. 
 
 #### Turn
 Rotate your Player Token in the direction specified by the Action card.
@@ -65,11 +65,11 @@ Rotate your Player Token in the direction specified by the Action card.
 #### Dig
 From the space your Player Token is on, pick up the number of Landscape cards specified on the Dig card. If the Landscape card reveals an Artifact, draw an Artifact card and add it to your inventory
 
-     - You may only hold 3 Artifacts at a time. You may drop Artifacts at any time by placing it face-down on your space. If there are face-down Artifacts on your space, you may look at them and pick them up on your turn.
+  - You may only hold 3 Artifacts at a time. You may drop Artifacts at any time by placing it face-down on your space. If there are face-down Artifacts on your space, you may look at them and pick them up on your turn.
 
 If the Landscape card has nothing on it, you may select a new Action card to add to your deck. 
 
-     - You may choose any of the 3 face-up Actions and immediately replace it with the top card from the Action deck. Or you may take the top Action from the deck.
+  - You may choose any of the 3 face-up Actions and immediately replace it with the top card from the Action deck. Or you may take the top Action from the deck.
 
 Remove the Landscape cards you revealed from the game.
 
