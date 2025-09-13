@@ -10,7 +10,9 @@ Each player has a Player Token. These represent where the player is on the board
 The board will start with 3 layers of Landscape cards: Topsoil, Subsoil, and Bedrock. Each Landscape could reveal an Artifact, or grant you new Actions.
 
 ### Artifacts
-When you discover an Artifact by digging, you will draw the next artifact from the Artifact deck. Artifacts represent rewards that will determine the winner at the end of the game.
+When you discover an Artifact by digging, you will draw the next artifact from the Artifact deck. Artifacts represent rewards that will determine the winner at the end of the game. Many Artifacts also have a special one time effect that happens if you Trash it (permanently remove it from the game).
+
+You can only have 3 Artifacts in your hand at a time. If you ever have more than that, you must drop Artifacts on your space until you are back down to 3.
 
 ### Actions
 These are the cards that players will use to take their turns. Actions include everything from moving, turning, and digging, to exciting unique actions that will turn you into an elite excavator. 
@@ -43,11 +45,15 @@ Each round consists of two phases:
 ### Preparation
 Each player draws 5 cards from their deck. Place cards from your hand face-down in a row in front of you to prepare your turn. The cards you prepare will be resolved in the order you place them. 
   - You do not need to use all 5 cards: for any cards you don't use, you may either discard them, or keep them in your hand for later.
-  - Each player has their own discard pile, which should always be face-up. 
+  - Each player has their own discard pile, which should always be face-up.
+
+If you plan to Trash one or more of your Artifacts during your turn, place the Artifact face-down in front of your first card. These will always resolve before the other cards.
 
 Players prepare their actions simultaneously. Once all players are ready, move on to the Action phase.
 
 ### Action
+First, all players reveals and resolves any Artifacts they are trashing. Leave them face-up in the play area as a reminder of their effects on the round. 
+
 Take turns beginning with the player with the Golden Shovel. On your turn, reveal your face-down cards one by one, left to right, resolving each as you reveal it. When you are finished, discard the cards you played, and draw back up to 5.
 
   - If you ever reveal an Action that you cannot perform, skip it.

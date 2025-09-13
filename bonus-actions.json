@@ -25,16 +25,6 @@
         "Quantity": 2
     },
     {
-        "Name": "Steal",
-        "Description": "Steal an opponent's Equipment card, or a face-up Action. Trash this card.",
-        "Quantity": 2
-    },
-    {
-        "Name": "Trash",
-        "Description": "Trash up to 3 cards from your draw pile and discard pile. Trash this card. Shuffle your deck.",
-        "Quantity": 4
-    },
-    {
         "Name": "Tunnel",
         "Description": "If you are on a space lower than Topsoil, move to any space that is the same level as you.",
         "Quantity": 2

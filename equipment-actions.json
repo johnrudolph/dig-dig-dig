@@ -5,11 +5,6 @@
         "Quantity": 1
     },
     {
-        "Name": "Audit log",
-        "Description": "Once per turn, you may look at one opponent's Contract card.",
-        "Quantity": 1
-    },
-    {
         "Name": "Cup of java",
         "Description": "At the beginning of each Preparation phase, you may discard 1 card and draw 1 card.",
         "Quantity": 1
@@ -17,11 +12,6 @@
     {
         "Name": "Geo-scanner",
         "Description": "You may always look at the top Landscape card below you.",
-        "Quantity": 1
-    },
-    {
-        "Name": "Inspector's Badge",
-        "Description": "Once per turn, you may look at one opponent's Artifacts",
         "Quantity": 1
     },
     {
