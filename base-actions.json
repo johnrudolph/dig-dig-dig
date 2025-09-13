@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Dig 1",
+        "Description": "Reveal the top Landscape card from your space",
+        "Type": "Base",
+        "Quantity": 4
+    },
+    {
+        "Name": "Dig 2",
+        "Description": "Reveal the top 2 Landscape cards from your space",
+        "Type": "Base",
+        "Quantity": 4
+    },
+    {
+        "Name": "Move",
+        "Description": "Move 1 space.",
+        "Type": "Base",
+        "Quantity": 20
+    },
+    {
+        "Name": "Rotate",
+        "Description": "Rotate left.",
+        "Type": "Base",
+        "Quantity": 4
+    },
+    {
+        "Name": "Rotate",
+        "Description": "Rotate right.",
+        "Type": "Base",
+        "Quantity": 4
+    },
+        {
+        "Name": "Rotate",
+        "Description": "Rotate to face the opposite direciton.",
+        "Type": "Base",
+        "Quantity": 4
+    }
+]

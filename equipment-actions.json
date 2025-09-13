@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Almanac",
+        "Description": "On your turn, you may look at the top card of the Artifact deck.",
+        "Type": "Equipment",
+        "Quantity": 1
+    },
+    {
+        "Name": "Audit log",
+        "Description": "Once per turn, you may look at one opponent's Contract card.",
+        "Type": "Equipment",
+        "Quantity": 1
+    },
+    {
+        "Name": "Cup of java",
+        "Description": "At the beginning of each Preparation phase, you may discard 1 card and draw 1 card.",
+        "Type": "Equipment",
+        "Quantity": 1
+    },
+    {
+        "Name": "Geo-scanner",
+        "Description": "You may always look at the top Landscape card below you.",
+        "Type": "Equipment",
+        "Quantity": 1
+    },
+    {
+        "Name": "Inspector's Badge",
+        "Description": "Once per turn, you may look at one opponent's Artifacts",
+        "Type": "Equipment",
+        "Quantity": 1
+    },
+    {
+        "Name": "Lucky Coin",
+        "Description": "Once per turn, when you draw an Artifact, you may look at it, return it to the bottom of the deck, and draw the next one.",
+        "Type": "Equipment",
+        "Quantity": 1
+    },
+    {
+        "Name": "Shop Keys",
+        "Description": "Once per turn, you may shuffle the 3 face-up Action cards into the deck, and draw 3 new face-up cards.",
+        "Type": "Equipment",
+        "Quantity": 1
+    }
+]
