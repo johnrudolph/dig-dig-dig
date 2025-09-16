@@ -2,71 +2,129 @@
     {
         "Name": "Dusty Boots",
         "Description": "Every time you move this turn, move to any space.",
-        "Value": "$0k"
+        "Value": "$0k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Plastic Trash Bag",
         "Description": "Trash any number of cards from your deck. Shuffle your deck.",
-        "Value": "$0k"
+        "Value": "$0k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Rusty Nail",
         "Description": "Steal an opponent's Equipment card, or a face-up Action.",
-        "Value": "$0k"
+        "Value": "$0k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Rusty Shovel",
         "Description": "Every Dig you play this turn is a Dig 3.",
-        "Value": "$0k"
+        "Value": "$0k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
         {
         "Name": "Periscope",
         "Description": "Choose an opponent. They must show you all Artifacts in their possession.",
-        "Value": "$1k"
+        "Value": "$1k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Map",
         "Description": "Choose any 3 spaces. Look at all of the Landscape cards in those spaces, and return them.",
-        "Value": "$1k"
+        "Value": "$1k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Auditor's Log",
         "Description": "Look at every committed contract card.",
-        "Value": "$2k"
+        "Value": "$2k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Antique Knife",
         "Description": "Steal an opponent's Equipment card, or a face-up Action.",
-        "Value": "$2k"
+        "Value": "$2k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Ancient Axe",
         "Description": "Each opponent must trash one card from their hand.",
-        "Value": "$3k"
+        "Value": "$3k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Cursed Statue",
         "Description": "Place face-up on one of the Mission cards. The rewards on that Mission are now -$4k",
-        "Value": "$3k"
+        "Value": "$3k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Ornate Chalice",
         "Description": "This turn, every time an opponent reveals a Turn card, you decide which direction they face.",
-        "Value": "$4k"
+        "Value": "$4k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Gold Watch",
         "Description": "After your turn, draw back up to 5 cards, prepare as many cards as you want, and resolve immediately.",
-        "Value": "$4k"
+        "Value": "$4k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
         {
         "Name": "Rare Geode",
         "Description": "Search the Artifact deck, and keep 1. Shuffle the Artifact deck.",
-        "Value": "$5k"
+        "Value": "$5k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
     },
     {
         "Name": "Uncut Gem",
         "Description": "Return your committed contract card to your hand. You may play a different one.",
-        "Value": "$5k"
+        "Value": "$5k",
+        "Set": "Base set",
+        "trash-visibility": "#FFFFFF",
+        "bg-color": "61523B"
+    },
+    {
+        "Name": "Dinosaur leg",
+        "Description": "Return your committed contract card to your hand. You may play a different one.",
+        "Value": "-$3k",
+        "Set": "Palaeontologist Patty",
+        "trash-visibility": "#00000000",
+        "bg-color": "944283"
+    },
+    {
+        "Name": "Dinosaur arm",
+        "Description": "Return your committed contract card to your hand. You may play a different one.",
+        "Value": "-$3k",
+        "Set": "Palaeontologist Patty",
+        "trash-visibility": "#00000000",
+        "bg-color": "944283"
     }
 ]
