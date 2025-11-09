@@ -46,6 +46,8 @@ Each player draws 4 cards from their deck. Place cards from your hand face-down 
   - Each player has their own discard pile, which should always be face-up.
   - If your deck is ever empty, shuffle your discard pile and replace it.
 
+During this phase you may always discard 2 cards in your hand, then draw 1 card from your deck. You may do this multiple times, provided that you have 2 cards to discard.
+
 If you plan to Trash one or more of your Artifacts during your turn, place the Artifact face-down in front of your first card. These will always resolve before the other cards.
 
 Players prepare their actions simultaneously. Once all players are ready, move on to the Action phase.
