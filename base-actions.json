@@ -2,31 +2,16 @@
     {
         "Name": "Dig 1",
         "Description": "Reveal the top Landscape card from your space",
-        "Quantity": 4
-    },
-    {
-        "Name": "Dig 2",
-        "Description": "Reveal the top 2 Landscape cards from your space",
-        "Quantity": 4
+        "Quantity": 8
     },
     {
         "Name": "Move",
         "Description": "Move 1 space.",
-        "Quantity": 20
+        "Quantity": 16
     },
     {
         "Name": "Rotate",
-        "Description": "Rotate left.",
-        "Quantity": 4
-    },
-    {
-        "Name": "Rotate",
-        "Description": "Rotate right.",
-        "Quantity": 4
-    },
-        {
-        "Name": "Rotate",
-        "Description": "Rotate to face the opposite direciton.",
-        "Quantity": 4
+        "Description": "Rotate left or right.",
+        "Quantity": 8
     }
 ]
