@@ -17,6 +17,10 @@ You can only have 3 Artifacts in your hand at a time. If you ever have more than
 ### Actions
 These are the cards that players will use to take their turns. Actions include everything from moving, turning, and digging, to exciting unique actions that will turn you into an elite excavator. 
 
+#### Equipment
+
+Some action cards are special equipment that permanently enhance your character. Play these as usual in your turn, and then leave them face-up in front of you for the rest of the game.
+
 ### Missions
 Missions are special requests from clients that offer big rewards. Most Missions will require multiple players to fulfill. A Mission can also include special Actions or Artifacts that get shuffled into those decks.
 
@@ -81,7 +85,7 @@ If the Landscape card has nothing on it, you may select a new Action card to add
 
 Remove the Landscape cards you revealed from the game.
 
-#### Accept a Contract
+#### Accepting a Contract
 Finally, there is one special thing you can do during your turn. Once per game, you may pick up the Contracts deck, and select one card to keep facedown for the rest of the game. You can only have 1 Contract. 
 
 ### Pass the Shovel
