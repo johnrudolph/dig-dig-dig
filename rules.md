@@ -7,7 +7,7 @@ You are an excavator. You will be digging along side other excavators to explore
 Each player has a Player Token. These represent where the player is on the board, and indicate the direction that the player is facing. 
 
 ### Landscapes
-The board will start with 4 layers of Landscape cards: Surface, Topsoil, Subsoil, and Bedrock. Each Landscape could reveal an Artifact, or grant you new Actions.
+The board will start with 4 layers of Landscape cards: Surface, Topsoil, Subsoil, and Bedrock. Each Landscape could reveal an Artifact, or grant you new Actions. Bedrock cards simply represent the bottom of the board, and you cannot dig them.
 
 ### Artifacts
 When you discover an Artifact by digging, you will draw the next artifact from the Artifact deck. Artifacts represent rewards that will determine the winner at the end of the game. Many Artifacts also have a special one time effect that happens if you Trash it (permanently remove it from the game).
