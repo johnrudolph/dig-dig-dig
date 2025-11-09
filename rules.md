@@ -87,15 +87,13 @@ Once all players have revealed their prepared cards, pass the Gold Shovel to the
 
 ## Game End
 
-Once you have completed all rounds (9 rounds for a 3 player game, 8 for a 2 player game), the game is over. All players reveal their Artifacts and Contracts.
+Once you have completed all rounds (8 for a 4 player game, 9 rounds for a 3 player game, 12 for a 2 player game), the game is over. All players reveal their Artifacts and Contracts.
 
-### Resolve Missions
+### Resolve Contracts
 Determine whether each Mission was successful. Each player reveals their Contract card. If their Mission was successful, they receive the Mission reward. If two players have the Contract for that Mission, they must split the reward.
 
-If you have the Spoiler Contract, you receive reward if neither Mission was successful.
-
 ### Count other Artifacts
-Each player adds to their score the value of the other Artifacts in their inventory. 
+Each player adds to their score the value of the other Artifacts in their inventory (not including any face-up Artifacts they trashed).
 
 ### Determine a winner
-The player with the most 
+The player with the most money wins.

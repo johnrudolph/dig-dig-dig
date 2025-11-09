@@ -2,22 +2,19 @@
     {
         "Client": "Reginald Britsworth",
         "Flavor": "Everything belongs in my personal museum.",
-        "Mission": "At the end of round 5, identify the space(s) with the most facedown Artifacts. Pick up all of them and leave them facedown on this card. Reveal at the end of the game. If the total value of the Artifacts exceeds $10k, the mission is a success",
-        "First player reward": "20k",
-        "Second player reward": "10k"
+        "Mission": "At the end of round 7, identify the space(s) with the most facedown Artifacts. If multiple spaces have the highest number of Artifacts, take all of them. Pick up all of them and leave them facedown on this card. Reveal at the end of the game. If the total value of the Artifacts exceeds $10k, the mission is a success. The artifacts on this card do not count toward other contracts, and are considered out of the game.",
+        "Reward": "36k"
     },
     {
         "Client": "Palaeontologist Patty",
         "Flavor": "A pre-historic discovery awaits us!",
         "Mission": "There are 5 Dinosaur bones scattered around this area. Re-assemble at least 3 of them on a single space by dropping them facedown together.",
-        "First player reward": "16k",
-        "Second player reward": "8k"
+        "Reward": "36k"
     },
     {
         "Client": "Tim Bunkerberg",
         "Flavor": "Need a place to hide when the workers revolt.",
         "Mission": "Dig all the way down to the bedrock in a 3x2 grid, anywhere on the map. This will be the foundation for my lair",
-        "First player reward": "12k",
-        "Second player reward": "6k"
+        "Reward": "24k"
     }
 ]
