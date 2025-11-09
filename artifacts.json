@@ -64,7 +64,7 @@
     },
     {
         "Name": "Cursed Statue",
-        "Description": "Place face-up on one of the Mission cards. The reward on that Mission is now -$12k",
+        "Description": "Place face-up on one of the Mission cards. The reward on that Mission is reduced by $12k.",
         "Value": "$3k",
         "Set": "Base set",
         "bg-color": "61523B"
