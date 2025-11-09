@@ -26,7 +26,7 @@
     },
     {
         "Name": "Tunnel",
-        "Description": "If you are on a space lower than Topsoil, move to any space that is the same level as you.",
+        "Description": "If you are on a space lower than Surface, move to any space that is the same level as you (for example, move from Subsoil to another space whose highest layer is Subsoil). Continue facing he same direction as before.",
         "Quantity": 2
     }
 ]
