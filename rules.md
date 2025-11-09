@@ -83,7 +83,9 @@ Finally, there is one special thing you can do during your turn. Once per game, 
 
 ### Pass the Shovel
 
-Once all players have revealed their prepared cards, pass the Gold Shovel to the left, and return to the Preparation phase.
+Once all players have revealed their prepared cards, pass the Gold Shovel to the left, and return to the Preparation phase. 
+
+Move the 3 face-up bonus cards to the bottom of the bonus card deck, and replace them with 3 cards from the top of the deck.
 
 ## Game End
 
