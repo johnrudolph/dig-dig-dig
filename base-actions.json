@@ -11,7 +11,7 @@
     },
     {
         "Name": "Rotate",
-        "Description": "Rotate left or right.",
+        "Description": "Rotate 1 space left or right.",
         "Quantity": 8
     }
 ]
