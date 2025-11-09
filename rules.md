@@ -63,8 +63,9 @@ Take turns beginning with the player with the Golden Shovel. On your turn, revea
 There are many Actions, which are specified in the Glossary, but here are a few that are in your base deck, and are important to understand: 
 
 #### Move
-Move forward in the direction that you are already facing. Multiple players may occupy the same space. 
+Move forward in the direction that you are already facing. 
   - If you are facing the edge of the board, do nothing. 
+  - Only one player may occupy a given space. If you are moving forward and approach another player, you may either stay where you are, or jump over them (if possible).
 
 #### Turn
 Rotate your Player Token as specified by the Action card. In your base deck you have cards that allow you to rotate one space in either direction. But there are advanced cards that allow you to rotate to face any direction.
