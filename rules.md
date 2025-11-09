@@ -87,7 +87,7 @@ Remove the Landscape cards you revealed from the game.
 
 #### Dropping and pickng up Artifacts
 
-You can never hold more than 3 Artifacts, and must drop one as soon as you have more than 3. When you drop an Artifact, simply place it face-down on your space. If you are on a space with face-down Artifacts, you may look at them at any time. If you have space in your inventory, you may also pick them up at any time. 
+You can never hold more than 3 Artifacts, and must drop one as soon as you have more than 3. When you drop an Artifact, simply place it face-down on your space. If you are on a space with face-down Artifacts, you may look at them at any time during your turn. If you have space in your inventory, you may also pick them up at any time during your turn. 
 
 This means that, for example: You have 3 Artifacts in your inventory, and you dig to find a 4th. You immediately drop 1 on your space. At the beginning of your next turn, you trash 1 of the 3 in your inventory, and immediately pick up the dropped Artifact on your space.
 
