@@ -64,21 +64,21 @@
     },
     {
         "Name": "Cursed Statue",
-        "Description": "Place face-up on one of the Mission cards. The rewards on that Mission are now -$4k",
+        "Description": "Place face-up on one of the Mission cards. The reward on that Mission is now -$12k",
         "Value": "$3k",
         "Set": "Base set",
         "bg-color": "61523B"
     },
     {
         "Name": "Ornate Chalice",
-        "Description": "This turn, every time an opponent reveals a Turn card, you decide which direction they face.",
+        "Description": "This turn, every time an opponent reveals a move card this turn, you may rotate them before they move.",
         "Value": "$4k",
         "Set": "Base set",
         "bg-color": "61523B"
     },
     {
         "Name": "Gold Watch",
-        "Description": "After your turn, draw back up to 5 cards, prepare as many cards as you want, and resolve immediately.",
+        "Description": "After your turn, draw back up to 4 cards, and take an extra turn.",
         "Value": "$4k",
         "Set": "Base set",
         "bg-color": "61523B"
