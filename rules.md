@@ -7,7 +7,7 @@ You are an excavator. You will be digging along side other excavators to explore
 Each player has a Player Token. These represent where the player is on the board, and indicate the direction that the player is facing. 
 
 ### Landscapes
-The board will start with 3 layers of Landscape cards: Topsoil, Subsoil, and Bedrock. Each Landscape could reveal an Artifact, or grant you new Actions.
+The board will start with 4 layers of Landscape cards: Surface, Topsoil, Subsoil, and Bedrock. Each Landscape could reveal an Artifact, or grant you new Actions.
 
 ### Artifacts
 When you discover an Artifact by digging, you will draw the next artifact from the Artifact deck. Artifacts represent rewards that will determine the winner at the end of the game. Many Artifacts also have a special one time effect that happens if you Trash it (permanently remove it from the game).
@@ -21,14 +21,11 @@ These are the cards that players will use to take their turns. Actions include e
 Missions are special requests from clients that offer big rewards. Most Missions will require multiple players to fulfill. A Mission can also include special Actions or Artifacts that get shuffled into those decks.
 
 # Setup
-1. Shuffle each set of 12 Landscape cards separately. Create a 4x3 grid of Bedrock face-down. Place a face-down Subsoil on top of each. Then place a Topsoil on top of each.
-2. Each player takes a base set of Action cards, shuffles, and draws 5. Each base set contains: 
-  - 1 "Turn left" card
-  - 1 "Turn right" card
-  - 1 "Turn around" card
-  - 1 "Dig 1" card
-  - 1 "Dig 2" card
-  - 5 "Move 1" cards
+1. Create piles of landscape cards. In a 2 player game, you will use 12 of each, and in a 3-4 player game use 16 of each. If playing a 2 player game, ensure that all of the landscape cards that say "Artifact" on the face are included. Shuffle each set of 12 Landscape cards separately. Create a 4x4 grid (or 4x3 grid in a 2 player game) of bedrock. Place a face-down Subsoil on top of each. Then place a Topsoil on top of each. Then place a surface on top of each. You should have 4 cards in each pile, each of a different type.
+2. Each player takes a base set of Action cards, shuffles, and draws 4. Each base set contains: 
+  - 2 "Turn left or right" cards
+  - 2 "Dig 1" card
+  - 4 "Move 1" cards
 3. Shuffle the Action deck. Draw the top 3 cards and lay them out face-up next to the face-down deck.
 4. Shuffle the Mission deck, draw 2, and place them face-up near the play area. 
 5. Find any special Artifact or Action cards from the Missions. Shuffle the special Action cards into the Action deck. Shuffle the normal Artifact deck, and add cards from it to the special Artifact cards until there are 12 total. Set the others aside, shuffle the combined Artifact deck, and set it near the play area.
@@ -37,15 +34,17 @@ Missions are special requests from clients that offer big rewards. Most Missions
 
 # Gameplay
 Dig Dig Dig takes place over a series of rounds. The number of rounds depends on the number of players: 
+  - 2 players: 12 rounds
   - 3 players: 9 rounds
   - 4 players: 8 rounds
 
 Each round consists of two phases: 
 
 ### Preparation
-Each player draws 5 cards from their deck. Place cards from your hand face-down in a row in front of you to prepare your turn. The cards you prepare will be resolved in the order you place them. 
-  - You do not need to use all 5 cards: for any cards you don't use, you may either discard them, or keep them in your hand for later.
+Each player draws 4 cards from their deck. Place cards from your hand face-down in a row in front of you to prepare your turn. The cards you prepare will be resolved in the order you place them. 
+  - You do not need to use all 4 cards: for any cards you don't use, you may either discard them, or place them on top of your deck to draw next round.
   - Each player has their own discard pile, which should always be face-up.
+  - If your deck is ever empty, shuffle your discard pile and replace it.
 
 If you plan to Trash one or more of your Artifacts during your turn, place the Artifact face-down in front of your first card. These will always resolve before the other cards.
 
@@ -66,7 +65,7 @@ Move forward in the direction that you are already facing. Multiple players may 
   - If you are facing the edge of the board, do nothing. 
 
 #### Turn
-Rotate your Player Token in the direction specified by the Action card.
+Rotate your Player Token as specified by the Action card. In your base deck you have cards that allow you to rotate one space in either direction. But there are advanced cards that allow you to rotate to face any direction.
 
 #### Dig
 From the space your Player Token is on, pick up the number of Landscape cards specified on the Dig card. If the Landscape card reveals an Artifact, draw an Artifact card and add it to your inventory
